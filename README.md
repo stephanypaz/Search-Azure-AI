@@ -2,7 +2,7 @@
 
 O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de dados, como produtos, documentos e registros.
 
-## 🖥️ 1. Criação do AI Search
+## 🖥️ 1. Criar o AI Search
 
 - **Acesse o Portal Azure:** Vá para [portal.azure.com](https://portal.azure.com).
 - **Crie um novo recurso:** Pesquise por **"Azure AI Search"** e clique em **"Criar"**.
@@ -15,7 +15,7 @@ O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de d
 
 ---
 
-## 🖥️ 2. Criação do AI Services
+## 🖥️ 2. Criar o AI Services
 
 - **Crie um novo recurso:** Na página inicial do Azure, clique em **"Criar um recurso"**, procure por **"IA + Machine Learning"** e clique em **"Azure AI Services"**.
 - **Configure os detalhes básicos:**  
@@ -27,7 +27,7 @@ O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de d
 
 ---
 
-## 📊 3. Criação do Armazenamento
+## 📊 3. Criar o Armazenamento de Dados
 
 - **Criação de Contas de Armazenamento:** Na página inicial do Azure, procure e clique em **"Contas de Armazenamento"** e selecione **"Criar"**.
 - **Configure os detalhes básicos:**  
@@ -59,7 +59,7 @@ O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de d
 
 ---
 
-## 🔍 4. Testar e Consultar Dados
+## 🔍 6. Testar e Consultar Dados
 
 - **Importar Dados"**: Na página inicial do Azure, selecione **"AI Services"**.
    - Selecione **o mecanismo de busca criado anteriormente**.
@@ -71,7 +71,7 @@ O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de d
 
 ---
 
-## 🎯 Aplicações na Vida Real
+## 🎯 7. Aplicações na Vida Real
 
 O **Azure AI Search** pode ser usado para:
 
