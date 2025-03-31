@@ -75,9 +75,9 @@ O **Azure AI Search** permite criar buscas inteligentes para diversos tipos de d
 
 O **Azure AI Search** pode ser usado para:
 
-✅ **E-commerces** – Oferece uma busca inteligente que melhora a experiência do usuário, com filtros avançados e recomendações personalizadas.
-✅ **Atendimento ao Cliente** – Acelera o suporte ao permitir buscas instantâneas em bases de conhecimento, reduzindo o tempo de resposta.
-✅ **Saúde** – Facilita o acesso a prontuários médicos e registros clínicos, auxiliando profissionais na tomada de decisão rápida e eficiente.
-✅ **Gestão Documental** – Otimiza a organização de documentos corporativos, garantindo buscas rápidas e seguras em arquivos internos e sistemas de compliance.
+- ✅ **E-commerces** – Oferece uma busca inteligente que melhora a experiência do usuário, com filtros avançados e recomendações personalizadas.
+- ✅ **Atendimento ao Cliente** – Acelera o suporte ao permitir buscas instantâneas em bases de conhecimento, reduzindo o tempo de resposta.
+- ✅ **Saúde** – Facilita o acesso a prontuários médicos e registros clínicos, auxiliando profissionais na tomada de decisão rápida e eficiente.
+- ✅ **Gestão Documental** – Otimiza a organização de documentos corporativos, garantindo buscas rápidas e seguras em arquivos internos e sistemas de compliance.
 
 Agora seu **Azure AI Search** está pronto para uso! 🚀
